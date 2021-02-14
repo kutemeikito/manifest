@@ -50,7 +50,7 @@ To get started with the building process, you'll need to get familiar with [Git 
 # To initialize your local repository, use a command like this:-
 
 ```bash
- $ repo init -u https://github.com/Ancient-Lab/manifest -b ten-weeabo
+ $ repo init -u https://github.com/kutemeikito/manifest -b ten-weeabo
 ```
 
 # Then to sync up:- 
